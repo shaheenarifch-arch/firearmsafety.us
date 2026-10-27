@@ -117,4 +117,4 @@ footer nav{display:flex;gap:16px;flex-wrap:wrap}
 @media (max-width:520px){.top .topbar .wrap{justify-content:flex-start}}
 
 /* Amazon gun safe picks */
-.amz-picks{margin:56px 0}.amz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin-top:18px}.amz-card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column}.amz-card h3{margin:0 0 .4em}.amz-card p{font-size:.98rem;color:var(--muted);flex:1;margin:0 0 14px}.amz-card .btn{align-self:flex-start}
+.amz-picks{margin:56px 0}.amz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin-top:18px}.amz-card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column}.amz-card img{display:block;width:calc(100% + 36px);max-width:none;height:auto;aspect-ratio:16/9;object-fit:cover;margin:-18px -18px 14px;border-radius:12px 12px 0 0}.amz-card h3{margin:0 0 .4em}.amz-card p{font-size:.98rem;color:var(--muted);flex:1;margin:0 0 14px}.amz-card .btn{align-self:flex-start}
