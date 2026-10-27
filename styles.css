@@ -115,3 +115,6 @@ footer nav{display:flex;gap:16px;flex-wrap:wrap}
 .hdr-mail:hover{color:var(--blaze-ink)}
 .foot-contact{margin:0;flex-basis:100%}
 @media (max-width:520px){.top .topbar .wrap{justify-content:flex-start}}
+
+/* Amazon gun safe picks */
+.amz-picks{margin:56px 0}.amz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin-top:18px}.amz-card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column}.amz-card h3{margin:0 0 .4em}.amz-card p{font-size:.98rem;color:var(--muted);flex:1;margin:0 0 14px}.amz-card .btn{align-self:flex-start}
