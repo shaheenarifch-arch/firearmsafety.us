@@ -26,5 +26,19 @@
     "google_quality_passed": true,
     "eeat_score": 91,
     "seo_aeo_score": 7.82
+  },
+  {
+    "keyword": "Firearm safety for beginners complete guide: safe handling, storage and choosing training",
+    "title": "Firearm Safety for Beginners Complete Guide",
+    "description": "Firearm safety for beginners complete guide covering safe handling, storage rules, and how to choose a beginner training class in Southern California.",
+    "file": "firearm-safety-for-beginners-complete-guide-safe-handling-storage-and-choosing.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.66
   }
 ]
