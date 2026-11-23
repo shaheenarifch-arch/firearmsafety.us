@@ -54,5 +54,15 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.12
+  },
+  {
+    "keyword": "how to store guns safely at home with kids",
+    "title": "How to Store Guns Safely at Home With Kids (Parent's Guide)",
+    "description": "How to store guns safely at home with kids: unloaded and locked, ammo locked separately, keys out of reach, the right lock or safe, and what to teach children.",
+    "file": "how-to-store-guns-safely-at-home-with-kids.html",
+    "date": "2026-11-23",
+    "archetype": "authority_guide",
+    "risk_level": "low",
+    "requires_human_review": true
   }
 ]
